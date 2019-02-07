@@ -1,2 +1,5 @@
 # PushBarriers
-Objectif : mettre en application mon auto-formation sur les langages FrontEnd
+Objectifs : 
+
+  mettre en application mon apprentissage sur les langages frontEnd </br> apprendre à utiliser GitHub
+
